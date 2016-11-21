@@ -1,0 +1,12 @@
+14.11
+Fórum yfir verkefnið og hvað við þyrtfum að gera
+15.11
+Byrjaði að vinna í að senda udp streng
+16.11
+Vinna hélt áfram í udp string sending
+17.11
+Áfram hélt vinna í udp, kóði kominn upp en mikið debugging eftir
+18.11
+Meira debugging
+21.11
+Aftur debugging og kóða breytt
