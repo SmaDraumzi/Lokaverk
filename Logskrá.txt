@@ -1,12 +1,16 @@
 14.11
-Fórum yfir verkefniğ og hvağ viğ şyrtfum ağ gera
+FÃ³rum yfir verkefniÃ° og hvaÃ° viÃ° Ã¾yrtfum aÃ° gera
 15.11
-Byrjaği ağ vinna í ağ senda udp streng
+ByrjaÃ°i aÃ° vinna Ã­ aÃ° senda udp streng
 16.11
-Vinna hélt áfram í udp string sending
+Vinna hÃ©lt Ã¡fram Ã­ udp string sending
 17.11
-Áfram hélt vinna í udp, kóği kominn upp en mikiğ debugging eftir
+Ãfram hÃ©lt vinna Ã­ udp, kÃ³Ã°i kominn upp en mikiÃ° debugging eftir
 18.11
 Meira debugging
 21.11
-Aftur debugging og kóğa breytt
+Aftur debugging og kÃ³Ã°a breytt
+22.11
+plan um udp breyttist. Ã†tlum frekar aÃ° nota php til ap setja gÃ¶gnin beint i db og svo php til ap taka Ãºt honum, refreshum nÃ½jasta value Ãºt
+23.11
+php kÃ³Ã°un og debugging
