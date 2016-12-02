@@ -1,16 +1,28 @@
 14.11
-FÃ³rum yfir verkefniÃ° og hvaÃ° viÃ° Ã¾yrtfum aÃ° gera
+Fórum yfir verkefniğ og hvağ viğ şyrtfum ağ gera
 15.11
-ByrjaÃ°i aÃ° vinna Ã­ aÃ° senda udp streng
+Byrjaği ağ vinna í ağ senda udp streng
 16.11
-Vinna hÃ©lt Ã¡fram Ã­ udp string sending
+Vinna hélt áfram í udp string sending
 17.11
-Ãfram hÃ©lt vinna Ã­ udp, kÃ³Ã°i kominn upp en mikiÃ° debugging eftir
+Áfram hélt vinna í udp, kóği kominn upp en mikiğ debugging eftir
 18.11
 Meira debugging
 21.11
-Aftur debugging og kÃ³Ã°a breytt
+Aftur debugging og kóğa breytt
 22.11
-plan um udp breyttist. Ã†tlum frekar aÃ° nota php til ap setja gÃ¶gnin beint i db og svo php til ap taka Ãºt honum, refreshum nÃ½jasta value Ãºt
+plan um udp breyttist. Ætlum frekar ağ nota php til ap setja gögnin beint i db og svo php til ap taka út honum, refreshum nıjasta value út
 23.11
-php kÃ³Ã°un og debugging
+php kóğun og debugging
+24.11
+Kóğun í php en DHT library error kemur upp, kóği virkar ekki
+25.11
+Atur kemur upp DHT library error en connection viğ database er established og hardkóğuğ gögn kominn í töflu
+28.11
+Kóği virkar meğ hjálp frá Eiríki. Gögn byrjup ap fara frá arduino sensors inn í gagnagrunn, date er roundağ upp í síğasta korter
+29.11
+Ardunio hliğ verkefnis er búinn, hjálpa Ásgeiri meğ vefsíğuna
+30.11
+Vefsíğa sınir núna nıjasta gildi frá ardunio
+1.12
+Aftur vinn ég meğ Ásgeiri í síğunni
